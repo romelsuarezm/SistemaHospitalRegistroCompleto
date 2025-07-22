@@ -2,7 +2,7 @@
 ### Sistema de Citas Medicas
 ### Sistema que permite separar citas medicas mediante el DNI del paciente para lo cual se tiene que registrar asignandole un Cod de Historia medica, nombre y DNI
 
-![usuario](SISTEMAHOSPITALARIO.JPG) 
+![usuario](SISTEMA_HOSPITALARIO.JPG) 
 
 - Registra Pacientes asignando una cod de Historia Medica, Nombre y su DNI
 - Ver Pacientes con el DNI del paciente
